@@ -7,7 +7,6 @@
 <hr>
 
 ## 工作經驗
-
 #### 森德網站設計 - 網頁前端工程師(Front-end Developer) (2017/03 - 2018/04)
 
 * 網頁開發專案 (企業形象網站)
@@ -17,7 +16,6 @@
 
 
 ## 專業技能
-
 #### 前端
 
 - 能以HTML、CSS做RWD網頁架構、排版，不依賴CSS Framework，目前已有手刻多個專案的經驗。
@@ -30,7 +28,6 @@
 <hr>
 
 ## 作品集 (專案&&個人)
-
 - <a href="http://ternchen.000webhostapp.com/Travel/index.html" target="_blank"><B>高雄旅遊資訊</B> (RWD)</a> <BR>
   ⌞ Bootstrap 搭配 SCSS 快速搭建響應式網頁。 <BR>
   ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<BR>
@@ -68,10 +65,8 @@
 
 
 ## 關於我 & 未來計劃 
-
 #### 關於我
 - 我是XXX
-
 
 #### 未來計劃
 - 目前  未來
