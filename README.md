@@ -1,5 +1,4 @@
 # 紀冠逸 (CHI GUAN I)
-<img src='images/1.png' width='300' height='300'>
 - Birthday： 1991/04/07
 - Education: 亞東技術學院-機械工程系
 - Location : 新北市三重區
