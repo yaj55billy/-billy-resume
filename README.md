@@ -1,4 +1,5 @@
 # 紀冠逸 (Billy)
+<img src="images/billy.png" alt="" style='width:200px; height:200px; display:block; border-radius:99em;'>
 - Birthday： 1991/04/07
 - Education: 亞東技術學院-機械工程系
 - Location : 新北市三重區
