@@ -1,4 +1,4 @@
-# 紀冠逸 (CHI GUAN I)
+# 紀冠逸 (Billy)
 - Birthday： 1991/04/07
 - Education: 亞東技術學院-機械工程系
 - Location : 新北市三重區
@@ -61,12 +61,12 @@
 
 - <a href="https://yaj55billy.github.io/travel-info/" target="_blank"><B>高雄旅遊資訊</B></a> <br>
   ⌞ RWD響應式網頁。 <br>
-  ⌞ 抓取 JSON 資料，過 Javascript / Ajax 呈現在網頁上(判斷資料列別做篩選跟換頁)。 <br>
+  ⌞ 抓取 JSON 資料，以 JavaScript / Ajax 呈現在網頁上(判斷資料列別做篩選跟換頁)。 <br>
   ⌞ jQuery做篩選過後的滑動效果。
 
 - <a href="https://yaj55billy.github.io/week2-filter/" target="_blank"><B>F2E活動WEEK2-Filter</B></a> <br>
   ⌞ RWD響應式網頁。 <br>
-  ⌞ 抓取 JSON 資料，過 Javascript / Ajax 呈現在網頁上(判斷資料列別做篩選跟換頁)。 <br>
+  ⌞ 抓取 JSON 資料，以 JavaScript / Ajax 呈現在網頁上(判斷資料列別做篩選跟換頁)。 <br>
   ⌞ jQuery做篩選過後的滑動效果。
 
 - <a href="https://yaj55billy.github.io/product-gallery/public/" target="_blank"><B>F2E活動WEEK4-Product gallery</B></a> <br>
@@ -78,7 +78,10 @@
 
 ### 關於我 & 未來計劃 
 #### 關於我
-- 我是XXX
+- 因緣際會下接觸到前端工程，覺得前端是一個很迷人的領域，程式碼給我們的回饋很快速，在畫面就能知道很多訊息。之後就開始埋首在 HTML、CSS、JavaScript、jQuery 的程式碼內。 <br>
+- 雖然是機械工程畢業，但卻發現不論是軟體或硬體的工作都有著相似的地方，像是規劃或者是Try and error的概念。 <br>
+- 工作上除了接觸技術部分，我覺得以"人"作為出發點也是非常重要的，像是客戶需求或者是團隊間的合作溝通。 
 
 #### 未來計劃
-- 目前  未來
+- 程式部分: 目前會先以前端領域為主，希望能將 JavaScript 寫的更熟悉，也會接觸 Vue.js；未來則會想接觸 Node.js、PHP等等後端部分。<br>
+- 其他領域: 對文案也有著興趣，希望之後也能有機會接觸。 (但還是以程式為主) 
