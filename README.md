@@ -28,39 +28,51 @@
 <hr>
 
 ### 作品集 (專案&&個人)
+#### 專案
 - <a href="http://www.geos.com.tw/index.php" target="_blank"><B>大世界英日韓&遊學</B></a> <br>
   ⌞ 手刻響應式網頁(RWD)。 <br>
-  ⌞ jQuery動畫效果 (ex:漢堡選單、偵測瀏覽器高度、點擊滑動到指定位置等等...) <br>
-  ⌞ Plugin的使用 (輪播效果、相簿) <br>
+  ⌞ jQuery動畫效果 (ex:漢堡選單、偵測瀏覽器高度、Lightbox等等...)。 <br>
+  ⌞ Plugin的使用 (輪播效果、相簿)。 <br>
   ⌞ Google map API的串接應用。
 
 - <a href="http://www.saliya.com.tw/index.php" target="_blank"><B>薩莉亞義大利餐廳</B></a> <br>
   ⌞ 手刻響應式網頁(RWD)。 <br>
-  ⌞ jQuery動畫效果 (tab) <br>
-  ⌞ Plugin的使用 (輪播效果、跑馬燈、翻頁動態) <br>
+  ⌞ jQuery動畫效果 (tab)。 <br>
+  ⌞ Plugin的使用 (輪播效果、跑馬燈、翻頁動態)。
 
-<!-- - <a href="http://ternchen.000webhostapp.com/BMI/" target="_blank"><B>健康小檢驗-算算 BMI </B> </a> <br>
-- <a href="http://ternchen.000webhostapp.com/Holiday/index.html" target="_blank"><B>連假攻略</B></a> <BR>
-- <a href="http://ternchen.hol.es/cue_index/" target="_blank"><B>新立方首頁</B> (RWD)</a> <BR>
-- <a href="http://www.yilan.ehrhotel.com/act/2016_Greet_Dawn/" target="_blank"><B>龜山迎曙光</B> (RWD)</a> <BR>
-- <a href="http://www.yangmei.ehrhotel.com/act/2016_Lovers/" target="_blank"><B>情人節們</B></a> <BR>
-- <a href="http://ternchen.hol.es/Edm_2016.08/" target="_blank"><B>保貼 EDM</B> (RWD)</a> <BR>
-- <a href="https://mamaclub.com/learn/collection/prettymom/" target="_blank"><B>時尚俏媽咪</B> (RWD)</a> <BR>
-  ⌞ 使用 wordpress 開空的站台，搭配 Git 於本機製作，最後上至正式機。<BR>
-  ⌞ SCSS 管理網頁版型，佐以 Jqery 呈現動態效果。<BR>
-    ⌞ Bootstrap 快速搭建響應式網頁 + SCSS 管理表格樣式。 <BR>
-  ⌞ 使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上<BR>
-  ⌞ 結合 Google Map Api 將資料標記在地圖上。<BR>
-  使用政府開放平台抓取 JSON 資料，並透過 Javascript / Ajax 呈現在網頁上。<br>
-    ⌞ 繪製手機 / 桌機視覺樣式<BR>
-  ⌞ 使用 css3 + jquery 製作動態效果<BR>
-     為了可以將信件完整呈現到客戶眼裡，使用了table與大量的style撰寫。<BR>
-   也符合大多數郵件信箱可以收看的樣子。<BR>
-     ⌞ 繪製手機 / 桌機視覺樣式<BR>
-  ⌞ 將 PSD 切成 RWD 佐以 Jquery 呈現動態效果轉換<BR> 
-  ⌞ css3 + jquery 呈現動畫&轉場效果。 <BR>
-  ⌞ 使用 css3 + jquery 製作動畫效果，並將時間轉換成 timeStamp ，待時間到圓圈便會自動轉向。 <BR> 
-  ⌞ 透過 Javascript 實現數學計算、並擁有 Todo-list 的基本功能(新增、完成與刪除事件) <BR> -->
+- <a href="http://www.vinegarhouse.com.tw/index.php" target="_blank"><B>醋醰媒體工作室</B></a> <br>
+  ⌞ Bootstrap的導入，增進開發效率(RWD)。 <br>
+  ⌞ jQuery動畫效果 (漢堡選單、分類收合)。
+
+- <a href="http://www.g-insurance.com.tw/index.php" target="_blank"><B>精联保險經紀人</B></a> <br>
+  ⌞ 手刻響應式網頁(RWD)。 <br>
+  ⌞ Plugin的使用 (區塊的淡入效果、相簿)。 
+  
+- <a href="http://yuli-design.com/index.php" target="_blank"><B>由里室內設計</B></a> <br>
+  ⌞ Bootstrap的導入，增進開發效率(RWD)。 <br>
+  ⌞ jQuery動畫效果。 <br>
+  ⌞ Plugin的使用 (輪播、瀑布流)。
+
+#### 個人作品
+
+- <a href="https://yaj55billy.github.io/bmi-calculator/" target="_blank"><B>BMI計算器</B></a> <br>
+  ⌞ RWD響應式網頁。 <br>
+  ⌞ JavaScript 計算與判斷BMI，並將結果渲染到HTML、儲存在本地資料庫。
+
+- <a href="https://yaj55billy.github.io/travel-info/" target="_blank"><B>高雄旅遊資訊</B></a> <br>
+  ⌞ RWD響應式網頁。 <br>
+  ⌞ 抓取 JSON 資料，過 Javascript / Ajax 呈現在網頁上(判斷資料列別做篩選跟換頁)。 <br>
+  ⌞ jQuery做篩選過後的滑動效果。
+
+- <a href="https://yaj55billy.github.io/week2-filter/" target="_blank"><B>F2E活動WEEK2-Filter</B></a> <br>
+  ⌞ RWD響應式網頁。 <br>
+  ⌞ 抓取 JSON 資料，過 Javascript / Ajax 呈現在網頁上(判斷資料列別做篩選跟換頁)。 <br>
+  ⌞ jQuery做篩選過後的滑動效果。
+
+- <a href="https://yaj55billy.github.io/product-gallery/public/" target="_blank"><B>F2E活動WEEK4-Product gallery</B></a> <br>
+  ⌞ RWD響應式網頁。 <br>
+  ⌞ Gulp編譯SCSS。<br>
+  ⌞ 使用SCSS來排版、布局。
 <hr>
 
 
