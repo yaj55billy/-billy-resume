@@ -34,7 +34,7 @@
   ⌞ 手刻響應式網頁(RWD)。 <br>
   ⌞ jQuery 動畫效果 (ex:漢堡選單、偵測瀏覽器高度、Lightbox等等...)。 <br>
   ⌞ Plugin 的使用 (輪播效果、相簿)。 <br>
-  ⌞ Google map API 的串接應用。
+  ⌞ Google Map API 的串接應用。
 
 - <a href="http://www.vinegarhouse.com.tw/index.php" target="_blank"><B>醋醰媒體工作室</B></a> <br>
   ⌞ 導入 Bootstrap，增進開發效率(RWD)。 <br>
@@ -62,7 +62,7 @@
 ### 關於我 & 未來計劃 
 #### 關於我
 - 因緣際會下接觸到前端工程，覺得前端是一個很迷人的領域，程式碼給我們的回饋很快速，在畫面就能知道很多訊息。之後就開始埋首在 HTML、CSS、JavaScript、jQuery 的程式碼內。 <br>
-- 雖然是機械工程畢業，但卻發現不論是軟體或硬體的工作都有著相似的地方，像是規劃或者是Try and error的概念。 <br>
+- 雖然是機械工程畢業，但卻發現不論是軟體或硬體的工作都有著相似的地方，像是規劃或者是Try and error。 <br>
 - 工作上除了接觸技術部分，我覺得以"人"作為出發點也是非常重要的，像是客戶需求或者是團隊間的合作溝通。 
 
 #### 未來計劃
