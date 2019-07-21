@@ -14,7 +14,7 @@
 * 網頁開發專案 (企業形象網站)
 * 與PM、平面設計、後端溝通配合
 
-#### 芯禾數位行銷 - 網頁前端工程師(Front-end Developer) (2018/08 - 2019 在職中)
+#### 數位行銷 - 網頁前端工程師(Front-end Developer) (2018/08 - 2019 在職中)
 
 - 常用技能: HTML、CSS(SCSS)、RWD、jQuery、JavaScript
 - 活動網站開發 (銀行相關行業)
