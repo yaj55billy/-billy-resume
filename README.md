@@ -38,7 +38,7 @@
   ⌞ 手刻大型響應式網頁(RWD)。 <br>
   ⌞ jQuery 動效。<br>
   
-- <a href="https://www.tcb-event.com.tw/loan/index.php" target="_blank"><B>百樂 Pilot World</B></a> <br>
+- <a href="https://www.pilot-pen.com.tw/" target="_blank"><B>百樂 Pilot World</B></a> <br>
   ⌞ 網站改版。 <br>
   ⌞ Google Map API 的串接應用。<br>
   
