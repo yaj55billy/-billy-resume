@@ -21,7 +21,7 @@
 
 ### 前端技能
 
-- 能以 HTML、CSS(SCSS) 做 RWD 網頁架構、排版，並使用 jQuery、JavaScript 做網頁動效(互動)，目前已有多個專案經驗。<a href="http://www.geos.com.tw/index.php" target="_blank">大世界英日韓&遊學</a>、<a href="" target="_blank">遠雄網路投保旅平險</a>
+- 能以 HTML、CSS(SCSS) 做 RWD 網頁架構、排版，並使用 jQuery、JavaScript 做網頁動效(互動)，目前已有多個專案經驗。<a href="http://www.geos.com.tw/index.php" target="_blank">大世界英日韓&遊學</a>、<a href="https://online-ins.fglife.com.tw/WebInsure/b2c/insure.action?utm_source=webinsure&utm_medium=banner&utm_campaign=event" target="_blank">遠雄網路投保旅平險</a>
 - 了解 Bootstrap 架構，並能適時導入專案加快開發效率。 <a href="http://yuli-design.com/index.php" target="_blank">由里室內設計</a>
 - 大型網站建置經驗。 <a href="https://tw.pegavision.com/" target="_blank">PEGAVISION 晶碩光學官方網站</a> 
 <hr>
