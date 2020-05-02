@@ -21,7 +21,7 @@
 
 ### 前端技能
 
-- 能以 HTML、CSS(SCSS) 做 RWD 網頁架構、排版，並使用 jQuery、JavaScript 做網頁動效(互動)，目前已有多個專案經驗。<a href="http://www.geos.com.tw/index.php" target="_blank">大世界英日韓&遊學</a>、<a href="https://online-ins.fglife.com.tw/WebInsure/b2c/insure.action?utm_source=webinsure&utm_medium=banner&utm_campaign=event" target="_blank">遠雄網路投保旅平險</a>
+- 能以 HTML、CSS(SCSS) 做 RWD 網頁架構、排版，並使用 jQuery、JavaScript 做網頁動效(互動)，目前已有多個專案經驗。<a href="http://www.geos.com.tw/index.php" target="_blank">大世界英日韓&遊學</a>、<a href="https://b2c.tmnewa.com.tw/insurance/accident/index" target="_blank">新安東京海上產險-傷害險</a>
 - 了解 Bootstrap 架構，並能適時導入專案加快開發效率。 <a href="http://yuli-design.com/index.php" target="_blank">由里室內設計</a>
 - 大型網站建置經驗。 <a href="https://tw.pegavision.com/" target="_blank">PEGAVISION 晶碩光學官方網站</a> 
 <hr>
@@ -46,7 +46,7 @@
   ⌞ 無障礙網站建置。 <br>
   ⌞ 了解無障礙網站規範。<br>
   
-### 未來計劃
-- 接觸前端工程領域 2~3 年左右，近期目標是更熟悉 JavaScript、學習框架 Vue.js，往後延伸則想再掌握 Node.js 等後端語言。 
+### 關於我與未來計劃
+- 接觸前端工程領域 2~3 年，在任職中接觸過許多專案，主要是企業形象跟活動型網站，而在這 2~3 年間公司類型為接案公司，所以除了技術外，也了解週期短的工作節奏，以及跟不同單位的配合。近期在技術上的目標是更熟悉 JavaScript、學習 Vue.js 框架，再往後延伸則想學習 Node.js 了解後端，以達到跟後端更好的配合。 
 
 
